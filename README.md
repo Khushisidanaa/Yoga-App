@@ -24,7 +24,7 @@ The image given
 
 ![Yoga Pose Example](/abc/input.png):
 
-Here, it identifies the pose correctly and gives feedback to bend the arms correctly:
+Here, it identifies the pose and gives feedback to bend the arms correctly:
 
 The output then is :
 ![Yoga Pose Example](/abc/output.png):
