@@ -12,11 +12,11 @@ This project leverages computer vision and deep learning techniques to accuratel
 
 # Detailed Documentation
 
-[Link Text](https://drive.google.com/file/d/1imIAYZnTuuG1GBYzwGYvGWrwyYIv01vh/view?usp=sharing)
+[Documentation](https://drive.google.com/file/d/1imIAYZnTuuG1GBYzwGYvGWrwyYIv01vh/view?usp=sharing)
 
 # Research Paper
 
-[Link Text](https://www.researchgate.net/publication/369903426_REAL_TIME_YOGA_POSE_DETECTION_USING_DEEPLEARNING_A_REVIEW)
+[Research Paper](https://www.researchgate.net/publication/369903426_REAL_TIME_YOGA_POSE_DETECTION_USING_DEEPLEARNING_A_REVIEW)
 
 # Output
 
